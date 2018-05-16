@@ -10,7 +10,7 @@ class AvoidGetInfosInLoop {
   	test.getInfo(); // Noncompliant {{Bad getInfos}}
   	test.getInfo(); // Noncompliant {{Bad getInfos}}
     int b=0;
-    int a=0;
+    int a=2;
   }
 
 }

@@ -13,6 +13,7 @@ class AvoidGetInfosInLoop {
     int b=0;
     b =-2;
     int v=3+1;
+    test2.getInfo();
 
   }
 

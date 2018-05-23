@@ -9,7 +9,9 @@ class AvoidGetInfosInLoop {
   public void getInfos() { 
   	test.getInfo(); // Noncompliant {{Bad getInfos}}
   	test.getInfo(); // Noncompliant {{Bad getInfos}}
-
+    int b=0;
+    int a=2;
+    int c;
   }
 
 }

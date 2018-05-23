@@ -12,6 +12,7 @@ class AvoidGetInfosInLoop {
     int c=0;
     int b=0;
     b =-2;
+    int v=3+1;
 
   }
 
